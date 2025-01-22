@@ -208,14 +208,14 @@
 .cancelButton {
 	width: 50px;
 	text-align: center;
-	cursor: pointer;
+	cursor: pointer !important;
 	display: inline-block;
-	padding: 3px 5px;
+	padding: 3px 5px !important;
 	font-size: 11px;
-	color: #fff;
-	border: 1px solid #636363;
+	color: #fff !important;
+	border: 1px solid #636363 !important;
 	border-radius: 3px;
-	background-color: #d02020;
+	background-color: #d02020 !important;
 	margin-top: 3px;
 	margin-left: 5px;
 }
